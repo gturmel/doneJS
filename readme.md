@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/gturmel/donejs.png?branch=master)](https://travis-ci.org/gturmel/donejs)
+[![Build Status](https://travis-ci.org/gturmel/doneJS.png?branch=master)](https://travis-ci.org/gturmel/doneJS)
 
 # place-my-order
 
