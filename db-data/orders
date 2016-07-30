@@ -1,6 +1,6 @@
 {"status":"new","items":[{"name":"Chicken with Tomato Carrot Chutney Sauce","price":45.99}],"name":"Greg","address":"392 ","phone":"293-4432","_id":"BeoxewcVcqIRnNZc"}
 {"status":"delivery","items":[{"name":"Chicken with Tomato Carrot Chutney Sauce","price":45.99},{"name":"Ricotta Gnocchi","price":15.99}],"name":"","address":"","phone":"","_id":"FJsMP9dNcLdW90Cq"}
-{"status":"new","items":[{"name":"Herring in Lavender Dill Reduction","price":45.99},{"name":"Spinach Fennel Watercress Ravioli","price":35.99}],"name":"","address":"","phone":"","_id":"IZuVJGzxPDFo2erg"}
+{"status":"preparing","items":[{"name":"Herring in Lavender Dill Reduction","price":45.99},{"name":"Spinach Fennel Watercress Ravioli","price":35.99}],"name":"","address":"","phone":"","_id":"IZuVJGzxPDFo2erg"}
 {"status":"new","items":[{"name":"Gunthorp Chicken","price":21.99}],"name":"asdf","address":"123","phone":"5432","_id":"aKT7wU3PsgBmmSoC"}
 {"status":"delivered","items":[{"name":"Onion fries","price":15.99},{"name":"Truffle Noodles","price":14.99},{"name":"Crab Pancakes with Sorrel Syrup","price":35.99}],"name":"Justin Meyer","address":"3108 Winchester Ct.","slug":"cheese-curd-city","_id":"fVHzvha4bMVuTaEe"}
 {"status":"delivered","items":[{"name":"Spinach Fennel Watercress Ravioli","price":35.99},{"name":"Crab Pancakes with Sorrel Syrup","price":35.99},{"name":"Charred Octopus","price":25.99}],"name":"Justin Meyer","address":"2451 W Washburne Ave","slug":"poutine-palace","_id":"kAA5ORco1LtHufrp"}
